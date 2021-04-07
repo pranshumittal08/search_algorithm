@@ -16,4 +16,7 @@ It is the minimum number of editing operations such as insertion, deletion or su
 4. The value at the nth row and mth column gives the minimum edit distance between the two words (where n and m are the lengths of source and target word respectively).
 
 The below image is an example of how the distance matrix looks.
+The source word is <em>intention</em> and target word is <em>execution</em>
+
+
 <img src = "https://ychai.uk/notes/images/Min-edit-distance.png">
