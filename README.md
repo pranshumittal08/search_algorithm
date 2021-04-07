@@ -1,5 +1,5 @@
 # Search Algorithm using the Minimum Edit Distance
 
-## The search algorithm is mainly based on: <b>Minimum Edit Distance</b>
+## The search algorithm is mainly based on: <em>Minimum Edit Distance</em>
 
 ### How does it work?
