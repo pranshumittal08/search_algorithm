@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# Search Algorithm
-## Based on Minimum Edit Distance Algorithm
 
-It is dynamic Programming algorithm that is very popular in NLP tasks for creating <em>auto correct</em> and <em>spelg corrector</em> like applications as
-=======
-# Search Algorithm using the Minimum Edit Distance
+# Search Algorithm
 
 ## The search algorithm is mainly based on: <em>Minimum Edit Distance</em>
 
@@ -26,4 +21,4 @@ The source word is <em>intention</em> and target word is <em>execution</em>
 
 
 <img src = "https://ychai.uk/notes/images/Min-edit-distance.png">
->>>>>>> f44515476f24c89a1dcdcc3a3c1be4822acab61e
+
